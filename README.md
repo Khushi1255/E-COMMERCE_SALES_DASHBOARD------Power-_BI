@@ -1,4 +1,4 @@
-# E-COMMERCE_SALES_DASHBOARD------Power-_BI
+# E-COMMERCE_SALES_DASHBOARD------Power_BI
 Owner of Prattham Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 ##  -->Analyzes E-commerce sales data, created an interactive dashboard using Power_BI.
